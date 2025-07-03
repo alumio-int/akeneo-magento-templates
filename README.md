@@ -1,0 +1,1 @@
+# akeneo-magento-templates
