@@ -2,7 +2,7 @@
 
 ## Description
 
-The Akeneo-Magento 2 Template facilitates seamless product data retrieval from Akeneo and transfers it to BigCommerce to make products sellable on the Magento 2 platform.
+The Akeneo-Magento 2 Template facilitates seamless product data retrieval from Akeneo and transfers it to Magento 2 to make products sellable on the Magento 2 platform.
 
 Go to the [documentation](https://github.com/alumio-int/akeneo-magento-templates/wiki).
 
