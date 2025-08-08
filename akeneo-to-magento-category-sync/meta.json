@@ -1,0 +1,14 @@
+{
+  "name": "Alumio to Magento - Categories Sync",
+  "description": "Sync Categories from Akeneo into Magento.",
+  "source_system": "Alumio",
+  "target_system": "Magento",
+  "tags": [
+    "category",
+    "sync",
+    "akeneo",
+    "Magento"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.93.0-RC2"
+}
