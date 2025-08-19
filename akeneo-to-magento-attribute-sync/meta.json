@@ -1,8 +1,8 @@
 {
-  "name": "Synchronize Akeneo Families and Attributes to Magento Attributes Sets and Attributes",
-  "description": "Sync families and attributes from Akeneo into Magento Attributes Sets and Attributes.",
+  "name": "Synchronize Akeneo Families and Attributes to Magento 2 Attributes Sets and Attributes",
+  "description": "Sync families and attributes from Akeneo into Magento 2 Attributes Sets and Attributes.",
   "source_system": "Alumio",
-  "target_system": "Magento",
+  "target_system": "Magento 2",
   "tags": [
     "family",
     "attribute",
@@ -11,7 +11,7 @@
     "attribute_set_group",
     "sync",
     "akeneo",
-    "magento"
+    "magento2"
   ],
   "version": "1.0.0",
   "alumio_version": "3.93.0-RC2"
