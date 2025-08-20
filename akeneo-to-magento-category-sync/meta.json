@@ -2,12 +2,12 @@
   "name": "Alumio to Magento 2 - Categories Sync",
   "description": "Sync Categories from Akeneo into Magento 2.",
   "source_system": "Alumio",
-  "target_system": "Magento2",
+  "target_system": "Magento 2",
   "tags": [
     "category",
     "sync",
     "akeneo",
-    "magento2"
+    "magento"
   ],
   "version": "1.0.0",
   "alumio_version": "3.93.0-RC2"
