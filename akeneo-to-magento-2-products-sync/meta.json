@@ -1,0 +1,17 @@
+{
+  "name": "Alumio to Magento 2 – Product Sync",
+  "description": "Sync full product data from Akeneo into Magento 2 product & variants using the Akeneo & Magento 2 API.",
+  "source_system": "Alumio",
+  "target_system": "Magento 2",
+  "tags": [
+    "product",
+    "simple-product",
+    "sync",
+    "akeneo",
+    "magento",
+    "variants",
+    "publish"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.93.0-RC2"
+}
